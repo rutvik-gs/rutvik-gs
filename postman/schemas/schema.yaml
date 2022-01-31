@@ -1,6 +1,6 @@
 openapi: 3.0.2
 info:
-  title: Sample API
+  title: Sample API asdf
   description: Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.
   version: 0.1.9
 
