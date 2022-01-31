@@ -1,6 +1,6 @@
-openapi: 3.0.2
+openapi: 3.0.7
 info:
-  title: Sample API qwerty
+  title: Sample API qwerty asdf
   description: Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.
   version: 0.1.9
 
