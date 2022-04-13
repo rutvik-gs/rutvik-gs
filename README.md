@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rutvik-gs
-- 👀 I’m interested in API Builder tech
-- 🌱 I’m currently learning about APIs and Postman App
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about APIs and the Postman App
 
 <!---
 rutvik-gs/rutvik-gs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
