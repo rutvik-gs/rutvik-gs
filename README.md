@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rutvik-gs
+- 👋 Hi, I’m Rutvik
 - 🌱 I’m a Software Engineer at Postman :astronaut:
 
 <!---
