@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rutvik
-- 🌱 I’m a Software Engineer at Postman :astronaut:
+- 🌱 Ex Software Engineer at Postman :astronaut:
 
 <!---
 rutvik-gs/rutvik-gs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
